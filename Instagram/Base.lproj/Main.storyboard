@@ -26,13 +26,13 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="8sN-MU-Aew">
-                                                    <rect key="frame" x="31" y="54" width="259" height="197"/>
+                                                    <rect key="frame" x="23" y="54" width="267" height="222"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 </imageView>
                                             </subviews>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="instaImageView" destination="8sN-MU-Aew" id="65a-QO-OqT"/>
+                                            <outlet property="instaImageView" destination="8sN-MU-Aew" id="vdQ-e8-T2y"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
